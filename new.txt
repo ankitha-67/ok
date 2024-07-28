@@ -1,3 +1,4 @@
 ankithaa
 git new text
 to apply stashing
+cherry pick
